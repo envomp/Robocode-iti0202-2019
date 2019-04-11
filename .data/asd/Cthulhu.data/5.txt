@@ -1,0 +1,1296 @@
+
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 7
+voidious.Dookious 1.582,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 12
+voidious.Dookious 1.582,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+voidious.Dookious 1.582,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+Cthulhu (1),
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+Cthulhu (2),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+Cthulhu (2),
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+Cthulhu (2),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+Cthulhu (2),
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 7
+Cthulhu (1),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+Cthulhu (1),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+Cthulhu (2),
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+Cthulhu (1),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 12
+Cthulhu (1),
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+Cthulhu (1),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+Cthulhu (2),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 11
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 17
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 7
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 7
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+apv.ScruchiPu 1.0,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+apv.ScruchiPu 1.0,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Crazy,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 15
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 18
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 23
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 29
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 34
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 35
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 38
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 43
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 48
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 52
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 57
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 60
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 5
+Hit robot: 0
+
+Hit by bullet: 64
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 5
+Hit robot: 0
+
+Hit by bullet: 68
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 5
+Hit robot: 0
+
+Hit by bullet: 72
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 77
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 83
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 88
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 92
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 94
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 98
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 103
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 107
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 111
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 115
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 119
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 9
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 11
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 16
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 19
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 22
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 25
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 29
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 31
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 36
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 40
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 43
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 45
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 51
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 54
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 57
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 61
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 65
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 66
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 70
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 74
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 79
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 83
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 89
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 9
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 14
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 14
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 14
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+sample.SpinBot,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+Cthulhu (1),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 7
+Cthulhu (2),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+Cthulhu (2),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 17
+Cthulhu (2),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 26
+Cthulhu (2),
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+Cthulhu (2),
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+Cthulhu (1),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+Cthulhu (1),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+Cthulhu (2),
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+Cthulhu (1),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 7
+Cthulhu (2),
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 12
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 13
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 15
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 20
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 24
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 29
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 32
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 36
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 39
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 43
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 47
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 53
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 56
+sample.Tracker,
+Hit by bullet: 4
+sample.Tracker,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 97
+sample.Tracker,sample.RamFire,
+Hit by bullet: 8
+sample.Tracker,sample.RamFire,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 145
+sample.Tracker,sample.RamFire,sample.Fire,
+Hit by bullet: 13
+sample.Tracker,sample.RamFire,sample.Fire,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 7
+wcsv.Engineer.Engineer 0.5.2,voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 11
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 16
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 21
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 27
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: MB move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0

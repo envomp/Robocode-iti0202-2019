@@ -1,0 +1,560 @@
+
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+voidious.Dookious 1.582,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+voidious.Dookious 1.582,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+Cthulhu (1),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+Cthulhu (2),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+Cthulhu (2),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 9
+Cthulhu (1),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 12
+Cthulhu (2),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 17
+Cthulhu (2),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 21
+Cthulhu (2),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 21
+Cthulhu (2),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 23
+Cthulhu (2),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 7
+Cthulhu (2),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+Cthulhu (1),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 7
+Cthulhu (1),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+Cthulhu (1),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 14
+Cthulhu (1),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 14
+Cthulhu (1),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 9
+Cthulhu (2),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+Cthulhu (1),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 15
+Cthulhu (2),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 16
+Cthulhu (2),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 13
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 1
+sample.Crazy,
+Hit by bullet: 5
+sample.Crazy,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+sample.SpinBot,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+sample.SpinBot,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+sample.SpinBot,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+sample.SpinBot,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+sample.SpinBot,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+sample.SpinBot,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 13
+sample.SpinBot,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 18
+sample.SpinBot,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 18
+sample.SpinBot,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 21
+sample.SpinBot,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+sample.SpinBot,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+Cthulhu (2),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+Cthulhu (1),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 13
+Cthulhu (1),
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 9
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 14
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 14
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 18
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 22
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 85
+sample.RamFire,
+Hit by bullet: 4
+sample.RamFire,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 12
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 17
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 23
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 28
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 34
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: Drunk move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0

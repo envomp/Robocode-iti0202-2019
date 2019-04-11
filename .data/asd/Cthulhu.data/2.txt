@@ -1,0 +1,873 @@
+
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 7
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 13
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 17
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 17
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+voidious.Dookious 1.582,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 7
+voidious.Dookious 1.582,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+voidious.Dookious 1.582,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+voidious.Dookious 1.582,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+voidious.Dookious 1.582,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+Cthulhu (2),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+Cthulhu (1),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 9
+Cthulhu (2),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+Cthulhu (1),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 11
+Cthulhu (1),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 9
+Cthulhu (2),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+Cthulhu (1),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 12
+Cthulhu (1),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 12
+Cthulhu (1),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 9
+Cthulhu (1),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+Cthulhu (2),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+sample.Walls,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 9
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 9
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 14
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 15
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 15
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 17
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 20
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 25
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 26
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 26
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 31
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 1
+sample.Crazy,
+Hit by bullet: 35
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 1
+sample.Crazy,
+Hit by bullet: 37
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 1
+sample.Crazy,
+Hit by bullet: 39
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 1
+sample.Crazy,
+Hit by bullet: 40
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 1
+sample.Crazy,
+Hit by bullet: 41
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 1
+sample.Crazy,
+Hit by bullet: 45
+sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 7
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 12
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 15
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 18
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 22
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 27
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 29
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 33
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 37
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 42
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 46
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 46
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 49
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 54
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+sample.SpinBot,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+Cthulhu (1),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+Cthulhu (2),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 11
+Cthulhu (1),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 17
+Cthulhu (1),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 21
+Cthulhu (1),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 24
+Cthulhu (1),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 24
+Cthulhu (1),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 24
+Cthulhu (1),
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 13
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 18
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 23
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 27
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 30
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 36
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 41
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 15
+sample.MyFirstJuniorRobot,sample.Crazy,
+Hit by bullet: 17
+sample.MyFirstJuniorRobot,sample.MyFirstRobot,sample.SpinBot,sample.Walls,sample.Crazy,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 18
+sample.MyFirstJuniorRobot,sample.Crazy,sample.Fire,
+Hit by bullet: 24
+sample.MyFirstJuniorRobot,sample.MyFirstRobot,sample.SpinBot,sample.Walls,sample.Crazy,sample.PaintingRobot,sample.Tracker,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 51
+sample.MyFirstJuniorRobot,sample.Crazy,sample.Fire,sample.PaintingRobot,sample.RamFire,
+Hit by bullet: 29
+sample.MyFirstJuniorRobot,sample.MyFirstRobot,sample.SpinBot,sample.Walls,sample.Crazy,sample.PaintingRobot,sample.Tracker,sample.RamFire,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 53
+sample.MyFirstJuniorRobot,sample.Crazy,sample.Fire,sample.PaintingRobot,sample.RamFire,sample.Tracker,
+Hit by bullet: 40
+sample.MyFirstJuniorRobot,sample.MyFirstRobot,sample.SpinBot,sample.Walls,sample.Crazy,sample.PaintingRobot,sample.Tracker,sample.RamFire,sample.TrackFire,sample.Fire,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 85
+sample.MyFirstJuniorRobot,sample.Crazy,sample.Fire,sample.PaintingRobot,sample.RamFire,sample.Tracker,sample.SpinBot,
+Hit by bullet: 57
+sample.MyFirstJuniorRobot,sample.MyFirstRobot,sample.SpinBot,sample.Walls,sample.Crazy,sample.PaintingRobot,sample.Tracker,sample.RamFire,sample.TrackFire,sample.Fire,sample.Corners,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 107
+sample.MyFirstJuniorRobot,sample.Crazy,sample.Fire,sample.PaintingRobot,sample.RamFire,sample.Tracker,sample.SpinBot,
+Hit by bullet: 70
+sample.MyFirstJuniorRobot,sample.MyFirstRobot,sample.SpinBot,sample.Walls,sample.Crazy,sample.PaintingRobot,sample.Tracker,sample.RamFire,sample.TrackFire,sample.Fire,sample.Corners,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 139
+sample.MyFirstJuniorRobot,sample.Crazy,sample.Fire,sample.PaintingRobot,sample.RamFire,sample.Tracker,sample.SpinBot,sample.TrackFire,sample.SittingDuck,
+Hit by bullet: 81
+sample.MyFirstJuniorRobot,sample.MyFirstRobot,sample.SpinBot,sample.Walls,sample.Crazy,sample.PaintingRobot,sample.Tracker,sample.RamFire,sample.TrackFire,sample.Fire,sample.Corners,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 170
+sample.MyFirstJuniorRobot,sample.Crazy,sample.Fire,sample.PaintingRobot,sample.RamFire,sample.Tracker,sample.SpinBot,sample.TrackFire,sample.SittingDuck,
+Hit by bullet: 89
+sample.MyFirstJuniorRobot,sample.MyFirstRobot,sample.SpinBot,sample.Walls,sample.Crazy,sample.PaintingRobot,sample.Tracker,sample.RamFire,sample.TrackFire,sample.Fire,sample.Corners,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 11
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 16
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 22
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 25
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 30
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 35
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 40
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 46
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: divide and conquer
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+asd.Cthulhu 1.0,

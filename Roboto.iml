@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/out/production/Roboto" />
+    <output-test url="file://$MODULE_DIR$/out/test/Roboto/robots" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/META-INF" />
+      <excludeFolder url="file://$MODULE_DIR$/sample" />
+      <excludeFolder url="file://$MODULE_DIR$/sampleex" />
+      <excludeFolder url="file://$MODULE_DIR$/samplesentry" />
+      <excludeFolder url="file://$MODULE_DIR$/sampleteam" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="robocode.ui-1.9.3.5" level="project" />
+  </component>
+</module>

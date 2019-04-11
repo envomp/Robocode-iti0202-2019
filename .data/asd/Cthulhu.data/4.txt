@@ -1,0 +1,1785 @@
+
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+voidious.Dookious 1.582,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 1
+Hit robot: 0
+
+Hit by bullet: 6
+voidious.Dookious 1.582,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 1
+Hit robot: 0
+
+Hit by bullet: 10
+voidious.Dookious 1.582,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 10
+Hit robot: 0
+
+Hit by bullet: 3
+voidious.Dookious 1.582,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 8
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 12
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 17
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 10
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 6
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 9
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 3
+Hit robot: 0
+
+Hit by bullet: 16
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 2
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 3
+Hit robot: 0
+
+Hit by bullet: 5
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 3
+Hit robot: 3
+Cthulhu (2),
+Hit by bullet: 10
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 3
+Cthulhu (1),
+Hit by bullet: 8
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 3
+Cthulhu (1),
+Hit by bullet: 16
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 3
+Cthulhu (1),
+Hit by bullet: 16
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 9
+ar.horizon.Horizon 0.9.6,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 12
+abc.Shadow 3.75a,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 73
+Hit robot: 1
+sample.Walls,
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 73
+Hit robot: 1
+sample.Walls,
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 73
+Hit robot: 1
+sample.Walls,
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 73
+Hit robot: 1
+sample.Walls,
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 74
+Hit robot: 2
+sample.Walls,
+Hit by bullet: 3
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 82
+Hit robot: 2
+sample.Walls,
+Hit by bullet: 3
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 82
+Hit robot: 2
+sample.Walls,
+Hit by bullet: 3
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 82
+Hit robot: 2
+sample.Walls,
+Hit by bullet: 3
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 114
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 114
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 114
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 114
+Hit robot: 1
+sample.Walls,
+Hit by bullet: 3
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 115
+Hit robot: 1
+sample.Walls,
+Hit by bullet: 4
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 119
+Hit robot: 1
+sample.Walls,
+Hit by bullet: 7
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 119
+Hit robot: 3
+sample.Walls,
+Hit by bullet: 7
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 123
+Hit robot: 3
+sample.Walls,
+Hit by bullet: 7
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 158
+Hit robot: 3
+sample.Walls,
+Hit by bullet: 8
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 159
+Hit robot: 3
+sample.Walls,
+Hit by bullet: 8
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 239
+Hit robot: 4
+sample.Walls,
+Hit by bullet: 11
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 355
+Hit robot: 5
+sample.Walls,
+Hit by bullet: 11
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 355
+Hit robot: 7
+sample.Walls,
+Hit by bullet: 11
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 355
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 11
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 355
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 12
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 355
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 13
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 450
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 14
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 450
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 14
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 450
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 14
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 450
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 15
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 450
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 15
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 450
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 15
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 450
+Hit robot: 42
+sample.Walls,
+Hit by bullet: 15
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 450
+Hit robot: 43
+sample.Walls,
+Hit by bullet: 15
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 453
+Hit robot: 43
+sample.Walls,
+Hit by bullet: 15
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 453
+Hit robot: 43
+sample.Walls,
+Hit by bullet: 15
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 454
+Hit robot: 44
+sample.Walls,
+Hit by bullet: 16
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 454
+Hit robot: 44
+sample.Walls,
+Hit by bullet: 18
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 568
+Hit robot: 44
+sample.Walls,
+Hit by bullet: 18
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 568
+Hit robot: 44
+sample.Walls,
+Hit by bullet: 18
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 87
+Hit robot: 0
+
+Hit by bullet: 6
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 87
+Hit robot: 0
+
+Hit by bullet: 6
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 87
+Hit robot: 0
+
+Hit by bullet: 6
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 0
+
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 4
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 4
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 8
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 8
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 8
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 8
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 8
+Hit robot: 0
+
+Hit by bullet: 2
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 8
+Hit robot: 3
+sample.Walls,
+Hit by bullet: 1
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 8
+Hit robot: 3
+sample.Walls,
+Hit by bullet: 3
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 117
+Hit robot: 3
+sample.Walls,
+Hit by bullet: 3
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 122
+Hit robot: 3
+sample.Walls,
+Hit by bullet: 3
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 126
+Hit robot: 3
+sample.Walls,
+Hit by bullet: 4
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 126
+Hit robot: 3
+sample.Walls,
+Hit by bullet: 4
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 126
+Hit robot: 3
+sample.Walls,
+Hit by bullet: 5
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 133
+Hit robot: 3
+sample.Walls,
+Hit by bullet: 5
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 133
+Hit robot: 3
+sample.Walls,
+Hit by bullet: 5
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 137
+Hit robot: 3
+sample.Walls,
+Hit by bullet: 6
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 137
+Hit robot: 4
+sample.Walls,
+Hit by bullet: 6
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 137
+Hit robot: 4
+sample.Walls,
+Hit by bullet: 7
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 152
+Hit robot: 4
+sample.Walls,
+Hit by bullet: 8
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 152
+Hit robot: 4
+sample.Walls,
+Hit by bullet: 8
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 152
+Hit robot: 4
+sample.Walls,
+Hit by bullet: 8
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 152
+Hit robot: 7
+sample.Walls,
+Hit by bullet: 9
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 152
+Hit robot: 7
+sample.Walls,
+Hit by bullet: 9
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 152
+Hit robot: 7
+sample.Walls,
+Hit by bullet: 9
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 154
+Hit robot: 7
+sample.Walls,
+Hit by bullet: 10
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 154
+Hit robot: 7
+sample.Walls,
+Hit by bullet: 10
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 201
+Hit robot: 7
+sample.Walls,
+Hit by bullet: 12
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 201
+Hit robot: 7
+sample.Walls,
+Hit by bullet: 13
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 206
+Hit robot: 7
+sample.Walls,
+Hit by bullet: 14
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 260
+Hit robot: 7
+sample.Walls,
+Hit by bullet: 15
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 260
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 15
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 260
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 15
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 260
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 16
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 329
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 16
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 329
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 18
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 329
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 18
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 329
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 18
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 331
+Hit robot: 9
+sample.Walls,
+Hit by bullet: 19
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 335
+Hit robot: 11
+sample.Walls,
+Hit by bullet: 21
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 335
+Hit robot: 11
+sample.Walls,
+Hit by bullet: 21
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 335
+Hit robot: 11
+sample.Walls,
+Hit by bullet: 21
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 335
+Hit robot: 11
+sample.Walls,
+Hit by bullet: 28
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 385
+Hit robot: 11
+sample.Walls,
+Hit by bullet: 29
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 385
+Hit robot: 11
+sample.Walls,
+Hit by bullet: 30
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 386
+Hit robot: 11
+sample.Walls,
+Hit by bullet: 30
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 386
+Hit robot: 11
+sample.Walls,
+Hit by bullet: 31
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 386
+Hit robot: 11
+sample.Walls,
+Hit by bullet: 32
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 386
+Hit robot: 11
+sample.Walls,
+Hit by bullet: 32
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 386
+Hit robot: 11
+sample.Walls,
+Hit by bullet: 35
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 386
+Hit robot: 15
+sample.Walls,
+Hit by bullet: 37
+sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 2
+sample.Crazy,
+Hit by bullet: 2
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 6
+sample.Crazy,
+Hit by bullet: 4
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 115
+Hit robot: 6
+sample.Crazy,
+Hit by bullet: 5
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 119
+Hit robot: 8
+sample.Crazy,
+Hit by bullet: 7
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 121
+Hit robot: 11
+sample.Crazy,
+Hit by bullet: 9
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 231
+Hit robot: 15
+sample.Crazy,
+Hit by bullet: 12
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 325
+Hit robot: 15
+sample.Crazy,
+Hit by bullet: 13
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 325
+Hit robot: 16
+sample.Crazy,
+Hit by bullet: 13
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 330
+Hit robot: 18
+sample.Crazy,
+Hit by bullet: 14
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 402
+Hit robot: 20
+sample.Crazy,
+Hit by bullet: 15
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 402
+Hit robot: 23
+sample.Crazy,
+Hit by bullet: 17
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 416
+Hit robot: 26
+sample.Crazy,
+Hit by bullet: 17
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 521
+Hit robot: 29
+sample.Crazy,
+Hit by bullet: 18
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 523
+Hit robot: 29
+sample.Crazy,
+Hit by bullet: 20
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 523
+Hit robot: 30
+sample.Crazy,
+Hit by bullet: 21
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 523
+Hit robot: 31
+sample.Crazy,
+Hit by bullet: 23
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 523
+Hit robot: 32
+sample.Crazy,
+Hit by bullet: 25
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 523
+Hit robot: 32
+sample.Crazy,
+Hit by bullet: 26
+sample.Crazy,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+sample.SpinBot,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 7
+sample.SpinBot,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 5
+Hit robot: 0
+
+Hit by bullet: 9
+sample.SpinBot,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+sample.SpinBot,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 11
+Hit robot: 0
+
+Hit by bullet: 4
+sample.SpinBot,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 92
+Hit robot: 0
+
+Hit by bullet: 6
+sample.SpinBot,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 99
+Hit robot: 0
+
+Hit by bullet: 7
+sample.SpinBot,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 154
+Hit robot: 0
+
+Hit by bullet: 8
+sample.SpinBot,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+sample.SpinBot,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 3
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 3
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 6
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 5
+Hit robot: 0
+
+Hit by bullet: 6
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 15
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 5
+Hit robot: 0
+
+Hit by bullet: 13
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 18
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 19
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 21
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 16
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 25
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 45
+Hit robot: 0
+
+Hit by bullet: 22
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 46
+Hit robot: 0
+
+Hit by bullet: 32
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 46
+Hit robot: 0
+
+Hit by bullet: 34
+Cthulhu (1),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 6
+Hit robot: 0
+
+Hit by bullet: 27
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 8
+Hit robot: 0
+
+Hit by bullet: 27
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 8
+Hit robot: 0
+
+Hit by bullet: 29
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 8
+Hit robot: 0
+
+Hit by bullet: 30
+Cthulhu (2),
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 5
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 9
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 14
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 17
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 4
+Hit robot: 0
+
+Hit by bullet: 21
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 4
+Hit robot: 0
+
+Hit by bullet: 25
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 4
+Hit robot: 0
+
+Hit by bullet: 29
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 4
+Hit robot: 0
+
+Hit by bullet: 33
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 4
+Hit robot: 0
+
+Hit by bullet: 36
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 5
+Hit robot: 0
+
+Hit by bullet: 38
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 5
+Hit robot: 0
+
+Hit by bullet: 42
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 21
+sample.MyFirstJuniorRobot,sample.Interactive,
+Hit by bullet: 5
+sample.Crazy,sample.Tracker,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 23
+sample.MyFirstJuniorRobot,sample.Interactive,sample.Walls,
+Hit by bullet: 12
+sample.Crazy,sample.Tracker,sample.MyFirstRobot,sample.Walls,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 44
+sample.MyFirstJuniorRobot,sample.Interactive,sample.Walls,sample.Corners,sample.Crazy,sample.MyFirstRobot,
+Hit by bullet: 20
+sample.Crazy,sample.Tracker,sample.MyFirstRobot,sample.Walls,sample.PaintingRobot,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 77
+sample.MyFirstJuniorRobot,sample.Interactive,sample.Walls,sample.Corners,sample.Crazy,sample.MyFirstRobot,sample.RamFire,sample.SpinBot,
+Hit by bullet: 43
+sample.Crazy,sample.Tracker,sample.MyFirstRobot,sample.Walls,sample.PaintingRobot,sample.RamFire,sample.Fire,sample.SpinBot,sample.MyFirstJuniorRobot,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 94
+sample.MyFirstJuniorRobot,sample.Interactive,sample.Walls,sample.Corners,sample.Crazy,sample.MyFirstRobot,sample.RamFire,sample.SpinBot,sample.Tracker,
+Hit by bullet: 52
+sample.Crazy,sample.Tracker,sample.MyFirstRobot,sample.Walls,sample.PaintingRobot,sample.RamFire,sample.Fire,sample.SpinBot,sample.MyFirstJuniorRobot,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 126
+sample.MyFirstJuniorRobot,sample.Interactive,sample.Walls,sample.Corners,sample.Crazy,sample.MyFirstRobot,sample.RamFire,sample.SpinBot,sample.Tracker,
+Hit by bullet: 60
+sample.Crazy,sample.Tracker,sample.MyFirstRobot,sample.Walls,sample.PaintingRobot,sample.RamFire,sample.Fire,sample.SpinBot,sample.MyFirstJuniorRobot,sample.TrackFire,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 129
+sample.MyFirstJuniorRobot,sample.Interactive,sample.Walls,sample.Corners,sample.Crazy,sample.MyFirstRobot,sample.RamFire,sample.SpinBot,sample.Tracker,
+Hit by bullet: 73
+sample.Crazy,sample.Tracker,sample.MyFirstRobot,sample.Walls,sample.PaintingRobot,sample.RamFire,sample.Fire,sample.SpinBot,sample.MyFirstJuniorRobot,sample.TrackFire,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 135
+sample.MyFirstJuniorRobot,sample.Interactive,sample.Walls,sample.Corners,sample.Crazy,sample.MyFirstRobot,sample.RamFire,sample.SpinBot,sample.Tracker,
+Hit by bullet: 81
+sample.Crazy,sample.Tracker,sample.MyFirstRobot,sample.Walls,sample.PaintingRobot,sample.RamFire,sample.Fire,sample.SpinBot,sample.MyFirstJuniorRobot,sample.TrackFire,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 4
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 9
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 14
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 1
+Hit robot: 0
+
+Hit by bullet: 18
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 1
+Hit robot: 0
+
+Hit by bullet: 24
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 1
+Hit robot: 0
+
+Hit by bullet: 29
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 1
+Hit robot: 0
+
+Hit by bullet: 34
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 1
+Hit robot: 0
+
+Hit by bullet: 37
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 1
+Hit robot: 0
+
+Hit by bullet: 41
+voidious.Dookious 1.573c,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 0
+Hit robot: 0
+
+Hit by bullet: 1
+asd.Cthulhu 1.0,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 81
+Hit robot: 3
+asd.Cthulhu 1.0,
+Hit by bullet: 4
+asd.Cthulhu 1.0,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 84
+Hit robot: 3
+asd.Cthulhu 1.0,
+Hit by bullet: 6
+asd.Cthulhu 1.0,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 84
+Hit robot: 3
+asd.Cthulhu 1.0,
+Hit by bullet: 7
+asd.Cthulhu 1.0,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 84
+Hit robot: 3
+asd.Cthulhu 1.0,
+Hit by bullet: 12
+asd.Cthulhu 1.0,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 84
+Hit robot: 3
+asd.Cthulhu 1.0,
+Hit by bullet: 14
+asd.Cthulhu 1.0,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 89
+Hit robot: 3
+asd.Cthulhu 1.0,
+Hit by bullet: 15
+asd.Cthulhu 1.0,
+*****
+NOME MOVIMENTO: raven move
+risultato: 1
+Hit muro: 163
+Hit robot: 3
+asd.Cthulhu 1.0,
+Hit by bullet: 18
+asd.Cthulhu 1.0,
+*****
+NOME MOVIMENTO: raven move
+risultato: -1
+Hit muro: 163
+Hit robot: 3
+asd.Cthulhu 1.0,
+Hit by bullet: 23
+asd.Cthulhu 1.0,
