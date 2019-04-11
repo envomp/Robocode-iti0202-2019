@@ -52,3 +52,12 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+
+# inline
+*.jar
+.idea
+META-INF
+sample
+sampleex
+samplesentry
+sampleteam
