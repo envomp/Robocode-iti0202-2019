@@ -11,17 +11,6 @@ import java.awt.geom.Point2D;
 public class MyRobot extends AdvancedRobot {
     private int moveDirection = 1;//which way to move
     private double firePower = 3.0D;
-    private boolean win = false;
-    private double enemyVelocity = 0;
-    private Point2D.Double myLocation = new Point2D.Double(0, 0);
-    private double lateralVelocity = 0;
-    private double absBearing = 0;
-    private double bulletPower = 0;
-    private double enemyEnergy = 0;
-    private double enemyDistance = 0;
-    private double enemyHeading = 0;
-    private double enemyHeadingChange = 0;
-    private double oldEnemyHeading = 0;
 
     public void run() {
         setAdjustRadarForRobotTurn(true);
@@ -31,22 +20,18 @@ public class MyRobot extends AdvancedRobot {
         setScanColor(Color.orange);
         setBulletColor(Color.red);
         setAdjustGunForRobotTurn(false);
+        scannerScan();
+        System.out.println("run");
+    }
+
+    private void scannerScan() {
+        System.out.println("Scanning");
+        setTurnRadarRightRadians(6.283185307179586D);
     }
 
     public void onScannedRobot(ScannedRobotEvent e) {
-        setTurnRadarLeftRadians(getRadarTurnRemainingRadians());//lock on the radar
-        enemyVelocity = e.getVelocity();
-        myLocation = new Point2D.Double(getX(), getY());
-        lateralVelocity = (getVelocity() * Math.sin(e.getBearingRadians()));
-        absBearing = (e.getBearingRadians() + getHeadingRadians());
-        bulletPower = (enemyEnergy - e.getEnergy());
-        enemyDistance = e.getDistance();
-        enemyEnergy = e.getEnergy();
-        enemyHeading = e.getHeadingRadians();
-        enemyHeadingChange = (enemyHeading - oldEnemyHeading);
-        oldEnemyHeading = enemyHeading;
 
-        if (e.getDistance() > 150) {
+        if (e.getDistance() > 100) {
             this.goRanged(e);
         } else {
             this.goMeele(e);
@@ -73,6 +58,5 @@ public class MyRobot extends AdvancedRobot {
     }
 
     public void onWin(WinEvent e) {
-        win = true;
     }
 }
