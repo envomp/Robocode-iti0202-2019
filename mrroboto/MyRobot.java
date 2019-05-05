@@ -1,5 +1,6 @@
 package mrroboto;
 
+import mrroboto.enemy.Enemy;
 import robocode.AdvancedRobot;
 import robocode.HitWallEvent;
 import robocode.ScannedRobotEvent;
@@ -7,10 +8,12 @@ import robocode.WinEvent;
 
 import java.awt.*;
 import java.awt.geom.Point2D;
+import java.util.HashSet;
 
 public class MyRobot extends AdvancedRobot {
     private int moveDirection = 1;//which way to move
     private double firePower = 3.0D;
+    private HashSet<Enemy> enemies = new HashSet<>();
 
     public void run() {
         setAdjustRadarForRobotTurn(true);
@@ -25,13 +28,14 @@ public class MyRobot extends AdvancedRobot {
     }
 
     private void scannerScan() {
-        System.out.println("Scanning");
         setTurnRadarRightRadians(6.283185307179586D);
     }
 
     public void onScannedRobot(ScannedRobotEvent e) {
+        var enemy = new Enemy(e);
+        enemies.add(enemy);
 
-        if (e.getDistance() > 100) {
+        if (enemy.getDistance() > 100) {
             this.goRanged(e);
         } else {
             this.goMeele(e);
