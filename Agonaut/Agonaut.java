@@ -13,8 +13,13 @@ public class Agonaut extends AdvancedRobot {
 
     private static double firePower = 1.9D;
     private static double lateralDirection = 1.0D;
-    private static double lastEnemyVelocity = 0.0D;
+    private static double lastEnemySpeed = 0.0D;
     private static double enemyEnergy = 100.0D;
+
+    private double bulletPower;
+    private double lateralVelocity;
+    private double absBearing;
+    private double enemyDistance;
 
     private static int velocity;
 
@@ -43,12 +48,6 @@ public class Agonaut extends AdvancedRobot {
     private double enemyHeading;
     private double enemyHeadingChange;
     private double enemyVelocity;
-
-    private double bulletPower;
-    private double lateralVelocity;
-    private double absBearing;
-    private double enemyDistance;
-
 
     public Agonaut() {
     }
@@ -188,8 +187,8 @@ public class Agonaut extends AdvancedRobot {
         MovePrediction.targetLocation = RobotFormulas.project(movePrediction.gunLocation, this.absBearing, this.enemyDistance);
         movePrediction.lateralDirection = lateralDirection;
         movePrediction.bulletPower = firePower;
-        movePrediction.setSegmentations(this.enemyDistance, this.enemyVelocity, lastEnemyVelocity);
-        lastEnemyVelocity = this.enemyVelocity;
+        movePrediction.setSegmentations(this.enemyDistance, this.enemyVelocity, lastEnemySpeed);
+        lastEnemySpeed = this.enemyVelocity;
         movePrediction.bearing = this.absBearing;
         this.setTurnGunRightRadians(
                 RobotFormulas.normalize(this.absBearing - this.getGunHeadingRadians() + movePrediction.mostVisitedBearingOffset()));
@@ -340,7 +339,7 @@ public class Agonaut extends AdvancedRobot {
                 (double) (movePredictions.length - 1));
     }
 
-    public void logHit(EnemyMovePrediction ew, Point2D.Double targetLocation) {
+    private void logHit(EnemyMovePrediction ew, Point2D.Double targetLocation) {
         int index = getFactorIndex(ew, targetLocation);
 
         for (int x = 0; x < movePredictions.length; ++x) {
@@ -349,7 +348,7 @@ public class Agonaut extends AdvancedRobot {
         }
     }
 
-    public Point2D.Double predictPosition(EnemyMovePrediction prediction, int direction) {
+    private Point2D.Double predictPosition(EnemyMovePrediction prediction, int direction) {
         Point2D.Double predictedPosition = (Point2D.Double) this.myLocation.clone();
         double predictedVelocity = this.getVelocity();
         double predictedHeading = this.getHeadingRadians();
@@ -382,12 +381,12 @@ public class Agonaut extends AdvancedRobot {
         return predictedPosition;
     }
 
-    public double lookForDanger(EnemyMovePrediction prediction, int direction) {
+    private double lookForDanger(EnemyMovePrediction prediction, int direction) {
         int index = getFactorIndex(prediction, this.predictPosition(prediction, direction));
         return movePredictions[index];
     }
 
-    public void surf() {
+    private void surf() {
         EnemyMovePrediction prediction = this.getClosestMovePrediction();
         if (prediction != null) {
             double dangerLeft = this.lookForDanger(prediction, -1);
@@ -402,15 +401,14 @@ public class Agonaut extends AdvancedRobot {
         }
     }
 
-    public double avoidWall(Point2D.Double botLocation, double angle, int orientation) {
+    private double avoidWall(Point2D.Double botLocation, double angle, int orientation) {
         while (!fieldRectangle.contains(RobotFormulas.project(botLocation, angle, 160.0D))) {
             angle += (double) orientation * 0.05D;
         }
-
         return angle;
     }
 
-    public static void dodgeAccordingToAngle(AdvancedRobot r, double goAngle) {
+    private static void dodgeAccordingToAngle(AdvancedRobot r, double goAngle) {
         double angle = RobotFormulas.normalize(goAngle - r.getHeadingRadians());
         if (Math.abs(angle) > Math.PI / 2) {
             if (angle < 0.0D) {
@@ -418,7 +416,6 @@ public class Agonaut extends AdvancedRobot {
             } else {
                 r.setTurnLeftRadians(Math.PI - angle);
             }
-
             r.setBack(100.0D);
         } else {
             if (angle < 0.0D) {
@@ -426,27 +423,7 @@ public class Agonaut extends AdvancedRobot {
             } else {
                 r.setTurnRightRadians(angle);
             }
-
             r.setAhead(100.0D);
         }
-
-    }
-
-    public void onPaint(Graphics2D g) {
-        g.setColor(Color.black);
-        g.fillRect(0, 0, (int) this.getX() - 40, (int) this.getY() + 40);
-        g.fillRect((int) this.getX() + 40, (int) this.getY() - 40, (int) this.width, (int) this.height);
-        g.fillRect((int) this.getX() - 40, 0, (int) this.width + 50, (int) this.getY() - 40);
-        g.fillRect(0, (int) this.getY() + 40, (int) this.width, (int) this.height);
-        g.setColor(Color.red);
-
-        for (EnemyMovePrediction movePrediction : this.enemyMovePrediction) {
-            Point2D.Double center = movePrediction.fireLocation;
-            int radius = (int) movePrediction.distanceTraveled;
-            if ((double) (radius - 40) < center.distance(this.myLocation)) {
-                g.drawOval((int) (center.x - (double) radius), (int) (center.y - (double) radius), radius * 2, radius * 2);
-            }
-        }
-
     }
 }
