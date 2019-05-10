@@ -1,6 +1,7 @@
 package mrroboto;
 
 import robocode.AdvancedRobot;
+import robocode.BulletHitEvent;
 import robocode.HitWallEvent;
 import robocode.ScannedRobotEvent;
 import robocode.WinEvent;
@@ -9,8 +10,14 @@ import java.awt.*;
 import java.util.HashSet;
 
 public class MyRobot extends AdvancedRobot {
+
+    private static double BULLET_POWER = 3;
+    private static double BULLET_DAMAGE = BULLET_POWER * 4;//Formula for bullet damage.
+    private static double BULLET_SPEED = 20 - 3 * BULLET_POWER;//Formula for bullet speed.
+
     private int moveDirection = 1; //which way to move
-    private double firePower = 3.0D;
+    static double oldEnemyHeading;
+    private static double enemyEnergy;
 
     public void run() {
         setAdjustRadarForRobotTurn(true);
@@ -30,8 +37,10 @@ public class MyRobot extends AdvancedRobot {
     }
 
     public void onScannedRobot(ScannedRobotEvent e) {
-        float sureHitDistance = 9000; //TODO: Calc this
-        if (e.getDistance() < sureHitDistance && e.getEnergy() * 1.05 < this.getEnergy() || true) {  // Testing...
+        enemyEnergy = e.getEnergy();
+
+        float sureHitDistance = 2000; //TODO: Calc this
+        if (e.getDistance() < sureHitDistance && e.getEnergy() * 1.05 < this.getEnergy() || e.getEnergy() <= 0) {
             goMeele(e);
         } else {
             goRanged(e);
@@ -39,6 +48,21 @@ public class MyRobot extends AdvancedRobot {
     }
 
     private void goMeele(ScannedRobotEvent e) {
+        setTurnLeft(e.getBearing()); // turn to enemy
+        setMaxVelocity(100);
+        setAhead(e.getDistance() * moveDirection);// Kamikaze
+        fire(e);
+    }
+
+    private void goRanged(ScannedRobotEvent e) {
+        setTurnRight(90 + e.getBearing()); // circle
+        setMaxVelocity(100);
+        moveDirection *= Math.random() > 0.9 ? -1 : 1;
+        setAhead(Math.random() * 100 * moveDirection);// Kamikaze
+        fire(e);
+    }
+
+    private void fire(ScannedRobotEvent e) {
         double absBearing = e.getBearingRadians() + getHeadingRadians();//enemies absolute bearing
         double latVel = e.getVelocity() * Math.sin(e.getHeadingRadians() - absBearing);//enemies later velocity
         setTurnRadarLeftRadians(getRadarTurnRemainingRadians());//lock on the radar
@@ -48,25 +72,19 @@ public class MyRobot extends AdvancedRobot {
 
         //amount to turn our gun, lead just a little bit
         setTurnGunRightRadians(gunTurnAmt);// turn our gun
-        setTurnLeft(e.getBearing()); // turn perpendicular to the enemy
-        setMaxVelocity(50);
-        setAhead(e.getDistance() * moveDirection);// Kamikaze
-        fire();
-    }
 
-    private void goRanged(ScannedRobotEvent e) {
-        //fire();
-    }
-
-    private void fire() {
         if (getGunHeat() == 0.0D) {
-            setFire(firePower);
+            setFire(BULLET_POWER);
         }
     }
 
 
     public void onHitWall(HitWallEvent e) {
         moveDirection = -moveDirection;//reverse direction upon hitting a wall
+    }
+
+    public void onBulletHit(BulletHitEvent e){
+        enemyEnergy-=BULLET_DAMAGE;
     }
 
     public void onWin(WinEvent e) {
