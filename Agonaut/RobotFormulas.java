@@ -1,5 +1,3 @@
-package Agonaut;
-
 import java.awt.geom.Point2D;
 
 public class RobotFormulas {

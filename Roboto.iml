@@ -7,12 +7,14 @@
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.data" />
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/COMPILER_INSTRUCTIONS" />
       <excludeFolder url="file://$MODULE_DIR$/META-INF" />
       <excludeFolder url="file://$MODULE_DIR$/generated" />
       <excludeFolder url="file://$MODULE_DIR$/sample" />
       <excludeFolder url="file://$MODULE_DIR$/sampleex" />
       <excludeFolder url="file://$MODULE_DIR$/samplesentry" />
       <excludeFolder url="file://$MODULE_DIR$/sampleteam" />
+      <excludeFolder url="file://$MODULE_DIR$/src" />
     </content>
     <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />

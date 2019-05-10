@@ -1,5 +1,3 @@
-package Agonaut;
-
 import robocode.Robot;
 import robocode.ScannedRobotEvent;
 

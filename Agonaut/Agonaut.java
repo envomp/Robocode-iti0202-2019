@@ -1,5 +1,3 @@
-package Agonaut;
-
 import robocode.*;
 
 import java.awt.*;
@@ -21,7 +19,6 @@ public class Agonaut extends AdvancedRobot {
   private double enemyDistance;
 
   private static int velocity;
-  int iteration = 0;
 
   private static int[][] hits = new int[16][4];
   private SingleEnemy enemy = new SingleEnemy();
