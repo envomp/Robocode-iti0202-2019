@@ -14,6 +14,7 @@ public class MyRobot extends AdvancedRobot {
     private static double BULLET_POWER = 3;
     private static double BULLET_DAMAGE = BULLET_POWER * 4;//Formula for bullet damage.
     private static double BULLET_SPEED = 20 - 3 * BULLET_POWER;//Formula for bullet speed.
+    private final static double MAX_BULLET_SPEED = 17; // ?
 
     private int moveDirection = 1; //which way to move
     static double oldEnemyHeading;
@@ -42,7 +43,9 @@ public class MyRobot extends AdvancedRobot {
         enemyEnergy = e.getEnergy();
 
         float sureHitDistance = 2000; //TODO: Calc this
-        if (e.getDistance() < sureHitDistance && e.getEnergy() * 1.1 < this.getEnergy() || e.getEnergy() <= 0) {
+        if (e.getDistance() < sureHitDistance
+                && e.getEnergy() * (1 + e.getDistance() / 2000) < this.getEnergy()//TODO: Calc how much more dmg we take
+                || e.getEnergy() <= 0) {
             goMeele(e);
         } else {
             goRanged(e);
@@ -52,7 +55,7 @@ public class MyRobot extends AdvancedRobot {
     private void goMeele(ScannedRobotEvent e) {
         setTurnLeft(e.getBearing()); // turn to enemy
         setMaxVelocity(100);
-        setAhead(e.getDistance() * moveDirection);// Kamikaze
+        setAhead(e.getDistance() * -1);// Kamikaze
         fire(e);
     }
 
@@ -70,7 +73,7 @@ public class MyRobot extends AdvancedRobot {
         setTurnRadarLeftRadians(getRadarTurnRemainingRadians());//lock on the radar
 
         double gunTurnAmt = robocode.util.Utils.normalRelativeAngle(absBearing - getGunHeadingRadians()
-                + latVel / e.getDistance() * 25);  // TODO: Experiment with this
+                + latVel / Math.sqrt(e.getDistance()) * 0.5);  // TODO: Experiment with this
 
         //amount to turn our gun, lead just a little bit
         setTurnGunRightRadians(gunTurnAmt);// turn our gun
@@ -86,8 +89,8 @@ public class MyRobot extends AdvancedRobot {
     }
 
     @Override
-    public void onBulletHit(BulletHitEvent e){
-        enemyEnergy-=BULLET_DAMAGE;
+    public void onBulletHit(BulletHitEvent e) {
+        enemyEnergy -= BULLET_DAMAGE;
     }
 
     @Override
