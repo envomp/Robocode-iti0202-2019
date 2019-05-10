@@ -130,7 +130,6 @@ public class Rl_nn extends AdvancedRobot {
 
                 if (iter == 0) {
 
-
                     try {
                         load2();
                     } catch (IOException e) {
