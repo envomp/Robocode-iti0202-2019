@@ -19,6 +19,7 @@ public class MyRobot extends AdvancedRobot {
     static double oldEnemyHeading;
     private static double enemyEnergy;
 
+    @Override
     public void run() {
         setAdjustRadarForRobotTurn(true);
         setBodyColor(new Color(128, 128, 50));
@@ -36,11 +37,12 @@ public class MyRobot extends AdvancedRobot {
         setTurnRadarRightRadians(6.283185307179586D);
     }
 
+    @Override
     public void onScannedRobot(ScannedRobotEvent e) {
         enemyEnergy = e.getEnergy();
 
         float sureHitDistance = 2000; //TODO: Calc this
-        if (e.getDistance() < sureHitDistance && e.getEnergy() * 1.05 < this.getEnergy() || e.getEnergy() <= 0) {
+        if (e.getDistance() < sureHitDistance && e.getEnergy() * 1.1 < this.getEnergy() || e.getEnergy() <= 0) {
             goMeele(e);
         } else {
             goRanged(e);
@@ -68,7 +70,7 @@ public class MyRobot extends AdvancedRobot {
         setTurnRadarLeftRadians(getRadarTurnRemainingRadians());//lock on the radar
 
         double gunTurnAmt = robocode.util.Utils.normalRelativeAngle(absBearing - getGunHeadingRadians()
-                + latVel / e.getDistance() * 35);  // TODO: Experiment with this
+                + latVel / e.getDistance() * 25);  // TODO: Experiment with this
 
         //amount to turn our gun, lead just a little bit
         setTurnGunRightRadians(gunTurnAmt);// turn our gun
@@ -78,15 +80,17 @@ public class MyRobot extends AdvancedRobot {
         }
     }
 
-
+    @Override
     public void onHitWall(HitWallEvent e) {
         moveDirection = -moveDirection;//reverse direction upon hitting a wall
     }
 
+    @Override
     public void onBulletHit(BulletHitEvent e){
         enemyEnergy-=BULLET_DAMAGE;
     }
 
+    @Override
     public void onWin(WinEvent e) {
     }
 }
