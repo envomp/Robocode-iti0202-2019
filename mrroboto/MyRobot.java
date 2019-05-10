@@ -55,7 +55,8 @@ public class MyRobot extends AdvancedRobot {
     private void goMeele(ScannedRobotEvent e) {
         setTurnLeft(e.getBearing()); // turn to enemy
         setMaxVelocity(100);
-        setAhead(e.getDistance() * -1);// Kamikaze
+        moveDirection = -1;
+        setAhead(e.getDistance() * moveDirection);// Kamikaze
         fire(e);
     }
 
@@ -73,7 +74,7 @@ public class MyRobot extends AdvancedRobot {
         setTurnRadarLeftRadians(getRadarTurnRemainingRadians());//lock on the radar
 
         double gunTurnAmt = robocode.util.Utils.normalRelativeAngle(absBearing - getGunHeadingRadians()
-                + latVel / Math.sqrt(e.getDistance()) * 0.5);  // TODO: Experiment with this
+                + latVel / Math.sqrt(e.getDistance()));  // TODO: Experiment with this
 
         //amount to turn our gun, lead just a little bit
         setTurnGunRightRadians(gunTurnAmt);// turn our gun
