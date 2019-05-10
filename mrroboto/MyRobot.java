@@ -1,19 +1,16 @@
 package mrroboto;
 
-import mrroboto.enemy.Enemy;
 import robocode.AdvancedRobot;
 import robocode.HitWallEvent;
 import robocode.ScannedRobotEvent;
 import robocode.WinEvent;
 
 import java.awt.*;
-import java.awt.geom.Point2D;
 import java.util.HashSet;
 
 public class MyRobot extends AdvancedRobot {
-    private int moveDirection = 1;//which way to move
+    private int moveDirection = 1; //which way to move
     private double firePower = 3.0D;
-    private HashSet<Enemy> enemies = new HashSet<>();
 
     public void run() {
         setAdjustRadarForRobotTurn(true);
@@ -22,9 +19,10 @@ public class MyRobot extends AdvancedRobot {
         setRadarColor(new Color(200, 200, 70));
         setScanColor(Color.orange);
         setBulletColor(Color.red);
-        setAdjustGunForRobotTurn(false);
+        setAdjustGunForRobotTurn(true);
+        turnRadarRightRadians(Double.NEGATIVE_INFINITY);//keep turning radar left
         scannerScan();
-        System.out.println("run");
+        //System.out.println("run");
     }
 
     private void scannerScan() {
@@ -32,22 +30,32 @@ public class MyRobot extends AdvancedRobot {
     }
 
     public void onScannedRobot(ScannedRobotEvent e) {
-        var enemy = new Enemy(e);
-        enemies.add(enemy);
-
-        if (enemy.getDistance() > 100) {
-            this.goRanged(e);
+        float sureHitDistance = 9000; //TODO: Calc this
+        if (e.getDistance() < sureHitDistance && e.getEnergy() * 1.05 < this.getEnergy() || true) {  // Testing...
+            goMeele(e);
         } else {
-            this.goMeele(e);
+            goRanged(e);
         }
     }
 
     private void goMeele(ScannedRobotEvent e) {
+        double absBearing = e.getBearingRadians() + getHeadingRadians();//enemies absolute bearing
+        double latVel = e.getVelocity() * Math.sin(e.getHeadingRadians() - absBearing);//enemies later velocity
+        setTurnRadarLeftRadians(getRadarTurnRemainingRadians());//lock on the radar
+
+        double gunTurnAmt = robocode.util.Utils.normalRelativeAngle(absBearing - getGunHeadingRadians()
+                + latVel / e.getDistance() * 35);  // TODO: Experiment with this
+
+        //amount to turn our gun, lead just a little bit
+        setTurnGunRightRadians(gunTurnAmt);// turn our gun
+        setTurnLeft(e.getBearing()); // turn perpendicular to the enemy
+        setMaxVelocity(50);
+        setAhead(e.getDistance() * moveDirection);// Kamikaze
         fire();
     }
 
     private void goRanged(ScannedRobotEvent e) {
-        fire();
+        //fire();
     }
 
     private void fire() {
